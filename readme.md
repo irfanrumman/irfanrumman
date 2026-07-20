@@ -75,12 +75,17 @@ Cairo, Egypt
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanrumman&layout=compact&theme=tokyonight"/>
 
 </p> -->
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://ghstats.dev/api/card?username=irfanrumman&theme=tokyonight" />
 
 <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=irfanrumman&layout=compact&theme=tokyonight" />
 
+</p> -->
+
+<p align="center">
+  <img height="170" src="https://ghstats.dev/api/card?username=irfanrumman&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=irfanrumman&layout=compact&theme=tokyonight" />
 </p>
 
 
