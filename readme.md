@@ -79,7 +79,7 @@ Cairo, Egypt
 
 <img height="170" src="https://ghstats.dev/api/card?username=irfanrumman&theme=tokyonight" />
 
-<img height="170" src="https://ghstats.dev/api/languages?username=irfanrumman&theme=tokyonight&layout=compact" />
+<img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=irfanrumman&layout=compact&theme=tokyonight" />
 
 </p>
 
