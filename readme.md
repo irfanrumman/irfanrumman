@@ -66,15 +66,6 @@ Cairo, Egypt
 
 ---
 
-<p align="center">
-
-  <img height="170"
-       src="https://github-readme-stats-fast.vercel.app/api?username=irfanrumman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-
-  <img height="230"
-       src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=irfanrumman&layout=compact&theme=tokyonight&langs_count=50" />
-
-</p>
 
 ## 📊 GitHub Stats
 
