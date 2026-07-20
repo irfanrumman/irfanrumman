@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github_banner.png" alt="Banner" width="100%">
+</p>
+
 <h1 align="center">Hi 👋, I'm Irfan Uddin</h1>
 <h3 align="center">A passionate full-stack web developer.</h3>
 
