@@ -68,13 +68,13 @@ Cairo, Egypt
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=irfanrumman&show_icons=true&theme=tokyonight"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irfanrumman&layout=compact&theme=tokyonight"/>
 
-</p>
+</p> -->
 
 <p align="center">
 
