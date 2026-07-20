@@ -38,15 +38,10 @@ I love working with JavaScript, TypeScript, React, Next.js, Node.js, Express.js,
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-📧 **Email**
-
-mdirfansayid@gmail.com
-
-📍 **Location**
-
-Cairo, Egypt
+- 📧 Email: **mdirfansayid@gmail.com**
+- 📍 Location: **Cairo, Egypt**
 
 ---
 
