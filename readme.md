@@ -90,7 +90,8 @@ src="https://github-readme-stats-fast.vercel.app/api?username=irfanrumman&show_i
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=irfanrumman&theme=tokyonight"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=irfanrumman&theme=tokyonight"/> -->
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=irfanrumman&theme=tokyonight" />
 
 </p>
 
